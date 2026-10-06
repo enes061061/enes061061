@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./assets/ge-avatar.png" width="160" alt="Göktuğ Enes monogram" />
-  <h1>Hi, I'm Göktuğ Enes 👋</h1>
+  <img src="./assets/genes-avatar.png" width="160" alt="Genes mascot" />
+  <h1>Hey, I'm Genes.</h1>
   <p><strong>Python learner · Curious builder · Always improving</strong></p>
 </div>
 
